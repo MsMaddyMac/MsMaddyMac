@@ -59,10 +59,10 @@ Each one. Reach one. Teach one. 🤓
 
 <br/> 
 
-## Keep In Touch 📇
+## Keep In Touch 👀
 
 <a href="https://twitter.com/MsMaddy_Mac" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img align="left" src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="30" alt=twitter" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/msmaddymac/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -72,7 +72,7 @@ Each one. Reach one. Teach one. 🤓
 </a>  
   
 
-  
+ 
 
 <br/>  
 
