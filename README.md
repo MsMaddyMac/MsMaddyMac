@@ -57,7 +57,7 @@ Each one. Reach one. Teach one. 🤓
 <br/>  
 
 
-## Github Stats &#129668;   
+## Github Stats &#127942;   
 <table><tr><td valign="top" width="100%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MsMaddyMac&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" />
