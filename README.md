@@ -25,7 +25,7 @@ Each one. Reach one. Teach one. 🤓
 <br/>  
 
 
-## Languages and Tools  
+## Languages and Tools <img src="https://img.icons8.com/fluent/48/000000/mac-client.png"/>
 <div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="35" />  
@@ -83,3 +83,4 @@ Each one. Reach one. Teach one. 🤓
 
 ----
 
+<a href="https://icons8.com/icon/g7CTuw4CJZWc/mac-client">Mac Client icon by Icons8</a> 
