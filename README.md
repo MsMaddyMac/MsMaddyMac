@@ -62,7 +62,7 @@ Each one. Reach one. Teach one. 🤓
 ## Keep In Touch 👀
 
 <a href="https://twitter.com/MsMaddy_Mac" target="_blank">
-<img src="https://img.icons8.com/color/30/000000/twitter--v1.png" alt="MsMaddy_Mac Twitter" />
+<img src="https://img.icons8.com/material-rounded/50/000000/twitter.png" alt="MsMaddy_Mac Twitter" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/msmaddymac/" target="_blank">
 <img align="left" src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="30" alt="MsMaddyMac LinkedIn" />
