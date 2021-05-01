@@ -25,7 +25,7 @@ Each one. Reach one. Teach one. 🤓
 <br/>  
 
 
-## Languages and Tools <img src="https://img.icons8.com/fluent/48/000000/mac-client.png"/>
+## <img src="https://img.icons8.com/fluent/36/000000/mac-client.png"/> Languages and Tools 
 <div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="35" />  
