@@ -61,20 +61,20 @@ Each one. Reach one. Teach one. 🤓
 
 ## Keep In Touch 👀
 
+<div align="center">
 <a href="https://twitter.com/MsMaddy_Mac" target="_blank">
-<img src="https://img.icons8.com/nolan/35/twitter-squared.png" alt="MsMaddyMac Twitter" />
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/msmaddymac/" target="_blank">
-<img align="left" src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="30" alt="MsMaddyMac LinkedIn" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/https://www.facebook.com/madeline.lopez.796" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
-  
+</div>  
 
- 
-
-<br/>  
+<br /> 
+   
 
   
 
