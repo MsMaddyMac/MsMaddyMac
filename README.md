@@ -1,21 +1,9 @@
-## Hey 👋, I'm Madeline McIntosh!  
+## Hey 👋🏽, I'm Madeline I. McIntosh!  
   
 <img src="https://raw.githubusercontent.com/MsMaddyMac/MsMaddyMac/main/BANNER.png" alt="banner that says Madeline McIntosh - software developer">
 
-<a href="https://twitter.com/MsMaddy_Mac" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/msmaddymac/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/https://www.facebook.com/madeline.lopez.796" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-  
 
-
-
-### So happy you decided to stop by!  
+## So happy you decided to stop by!  
 I’m a Full Stack Software Developer who took a career detour into the world of programming and never looked back! My passion for learning and continuously growing my skill set coupled with being full-stack, allows me to not only develop client-facing apps, websites, and APIs but develop them with cutting-edge technology.
 
 I am a crafter at 💜  and love being able to use my hands and noggin to create applications that can add value to those whose hands they land in. I enjoy sharing the knowledge I obtain and in doing so I am able to help others grow as well as solidify my own understanding and skills. 
@@ -69,7 +57,20 @@ Each one. Reach one. Teach one. 🤓
 
 </td></tr></table>  
 
-<br/>  
+<br/> 
+
+## Keep In Touch
+
+<a href="https://twitter.com/MsMaddy_Mac" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/msmaddymac/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/https://www.facebook.com/madeline.lopez.796" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+  
 
   
 
