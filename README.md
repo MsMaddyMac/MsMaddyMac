@@ -25,7 +25,7 @@ Each one. Reach one. Teach one. 🤓
 <br/>  
 
 
-## Languages and Tools 	:woman_technologist_medium_skin_tone: 
+## :woman_technologist_medium_skin_tone: Languages and Tools 	 
 <div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="35" />  
@@ -57,7 +57,7 @@ Each one. Reach one. Teach one. 🤓
 <br/>  
 
 
-## Github Stats :magic_wand:  
+## :magic_wand: Github Stats   
 <table><tr><td valign="top" width="100%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MsMaddyMac&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" />
